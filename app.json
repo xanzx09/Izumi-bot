@@ -9,7 +9,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter your session id",
+      "description": "izumi~72ZVFyyT",
       "required": true
     },
     "HEROKU": {
